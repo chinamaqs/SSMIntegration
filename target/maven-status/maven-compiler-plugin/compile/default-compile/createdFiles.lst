@@ -1,0 +1,6 @@
+com\demoFrist\Service\impl\MemberServiceImpl.class
+com\demoFrist\domain\Result.class
+com\demoFrist\domain\Member.class
+com\demoFrist\Controller\LoginController.class
+com\demoFrist\Dao\MemberDao.class
+com\demoFrist\Service\MemberService.class
